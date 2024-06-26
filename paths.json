@@ -2,5 +2,5 @@
   "mappings": [
     "/content/metafox-msm/masters/en:/"
   ],
-  "includes": ["/content/metafox-msm/","/content/dam/metafox-msm/"]
+  "includes": ["/content/metafox-msm/masters/","/content/dam/metafox-msm/masters/"]
 }
