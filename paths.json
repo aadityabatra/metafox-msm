@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/metafox-msm/masters/:/"
+    "/content/metafox-msm/masters/en:/"
   ],
   "includes": ["/content/metafox-msm/","/content/dam/metafox-msm/"]
 }
