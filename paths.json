@@ -5,5 +5,5 @@
     "/content/metafox-msm/language-masters/de/:/de/",
     "/content/metafox-msm/language-masters/en/:/en/"
   ],
-  "includes": ["/content/metafox-msm/","/content/dam/metafox-msm/"]
+  "includes": ["/content/metafox-msm/language-masters/","/content/dam/metafox-msm/"]
 }
